@@ -21,7 +21,7 @@ It doesn’t work, so let try 6,7,8 and more until it works. And when I use 7 nu
 ![image](https://user-images.githubusercontent.com/71617433/137172111-77d7dfc7-f652-4acc-8d9d-cbf0843eb5b2.png)
 
 The next, we’ll identify which data type for each columns.
-Use number, character to replace null. If the response return data, it’s true type of data, else, it’s wrong.
+Use number, character to replace null. If the response returns data, it’s true type of data, else, it’s wrong.
 
 ![image](https://user-images.githubusercontent.com/71617433/137172162-5169467e-4d55-4ca4-989c-a5c97e239c5d.png)
 
